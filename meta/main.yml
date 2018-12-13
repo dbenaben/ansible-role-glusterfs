@@ -1,0 +1,21 @@
+galaxy_info:
+  author: dbenaben
+  description: Ansible role to install, manage and configure GlusterFS 
+  company: Bordeaux Bioinformatics Center (CBiB)
+
+  license: GPLv2
+
+  min_ansible_version: 2.4
+
+  platforms:
+  - name: EL
+    versions:
+    - 7
+
+  galaxy_tags:
+    - gluster
+    - glusterfs
+    - storage
+    - clustering
+
+  dependencies: []
