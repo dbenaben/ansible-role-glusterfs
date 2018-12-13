@@ -1,4 +1,5 @@
 galaxy_info:
+  role_name: glusterfs
   author: dbenaben
   description: Ansible role to install, manage and configure GlusterFS 
   company: Bordeaux Bioinformatics Center (CBiB)
