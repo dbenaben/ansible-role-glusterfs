@@ -1,5 +1,5 @@
-# ansible-role-glusterfs
 
+[![Ansible Galaxy](https://img.shields.io/badge/galaxy-ansible--role--glusterfs-blue.svg)](https://galaxy.ansible.com/dbenaben/ansible_role_glusterfs)
 
 GlusterFS role
 ==============
